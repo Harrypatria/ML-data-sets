@@ -38,12 +38,11 @@
   -	Chinese Macroeconomic Data (2005–2022) https://www.kaggle.com/datasets/franciscofeng/chinese-macroeconomic-data-20052022
   -	London Weather Data https://www.kaggle.com/datasets/emmanuelfwerr/london-weather-data
   -	Best Selling Mobile Phones https://www.kaggle.com/datasets/muhammedtausif/best-selling-mobile-phones
-  -	Top 1000 Twitter Celebrity Accounts
-  -	COVID-19 Deaths and Vaccinations
-  -	Air Quality Data in India (2017–2022)
-  -	New Car Models in India
-  -	NYC Taxi Trip Data — Google Public Data
-  -	Lung Cancer
-  -	Driving Behavior
-  -	Electric Vehicles — India
+  -	Top 1000 Twitter Celebrity Accounts https://www.kaggle.com/datasets/ahmedshahriarsakib/top-1000-twitter-celebrity-accounts
+  -	COVID-19 Deaths and Vaccinations https://www.kaggle.com/datasets/digvijaysinhgohil/covid19-data-deaths-and-vaccinations
+  -	Air Quality Data in India (2017–2022) https://www.kaggle.com/datasets/fedesoriano/air-quality-data-in-india
+  -	New Car Models in India https://www.kaggle.com/datasets/kkhandekar/new-car-models-india
+  -	Lung Cancer https://www.kaggle.com/datasets/nancyalaswad90/lung-cancer
+  -	Driving Behavior https://www.kaggle.com/datasets/outofskills/driving-behavior
+  -	Electric Vehicles — India https://www.kaggle.com/datasets/kkhandekar/electric-vehicles-india
 
