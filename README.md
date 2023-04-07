@@ -1,7 +1,7 @@
 ### Common public dataset used in machine learning case study
 
-•	Date Fruit Datasets
-•	Acoustic Extinguisher Fire Dataset
+  -	Date Fruit Datasets https://www.kaggle.com/datasets/muratkokludataset/date-fruit-datasets 
+  -	Acoustic Extinguisher Fire Dataset https://www.kaggle.com/datasets/muratkokludataset/acoustic-extinguisher-fire-dataset
 •	Rice Image Dataset
 •	Pistachio Image Dataset
 •	Grapevine Leaves Image Dataset
