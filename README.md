@@ -11,24 +11,21 @@
   -	Rice MSC Dataset https://www.kaggle.com/datasets/muratkokludataset/rice-msc-dataset
   -	2022 Ukraine Russia War https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war
   -	Netflix TV Shows and Movies https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
-  -	Student Adaptability Level in Online Education
-  -	State of Data Brazil 2021
-  -	Supermarket Store Branches Sales Analysis
-  -	AMEX Data
-  -	Top Hits Spotify from 2000–2019
-  -	COVID-19 Coronavirus Pandemic
-  -	Amazon Seller — Order Status Prediction
-  -	Ukraine Conflict Twitter Dataset
-  -	Tesla Share Price
-  -	Walmart Sales Forecast
-  -	Wildlife Animal Images
-  -	Top YouTube Channels Data
-  -	Analyzing and Predicting Bitcoin Pricing Trend
-  -	Flight Fare Prediction
-  -	Airline Passenger Satisfaction
-  -	Student Mental Health
-  -	Spanish Wine Quality Dataset
-  -	Forbes 2022 Billionaires Data
+  -	Student Adaptability Level in Online Education https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-education
+  -	State of Data Brazil 2021 https://www.kaggle.com/datasets/datahackers/state-of-data-2021
+  -	Supermarket Store Branches Sales Analysis https://www.kaggle.com/datasets/surajjha101/stores-area-and-sales-data
+  -	Top Hits Spotify from 2000–2019 https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019
+  -	COVID-19 Coronavirus Pandemic https://www.kaggle.com/datasets/rinichristy/covid19-coronavirus-pandemic
+  -	Amazon Seller — Order Status Prediction https://www.kaggle.com/datasets/pranalibose/amazon-seller-order-status-prediction
+  -	Tesla Share Price https://www.kaggle.com/datasets/surajjha101/tesla-share-price-for-last-5-years
+  -	Walmart Sales Forecast https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast
+  -	Top YouTube Channels Data https://www.kaggle.com/datasets/surajjha101/top-youtube-channels-data
+  -	Analyzing and Predicting Bitcoin Pricing Trend https://www.kaggle.com/datasets/surajjha101/analyzing-and-prediction-of-bitcoin-pricing
+  -	Flight Fare Prediction https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction
+  -	Airline Passenger Satisfaction https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction
+  -	Student Mental Health https://www.kaggle.com/datasets/shariful07/student-mental-health
+  -	Spanish Wine Quality Dataset https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset
+  -	Forbes 2022 Billionaires Data https://www.kaggle.com/datasets/surajjha101/forbes-billionaires-data-preprocessed
   -	Mass Shooting in the US (2018–2022)
   -	Shark Tank India Dataset
   -	2021–2022 Football Team Stats
